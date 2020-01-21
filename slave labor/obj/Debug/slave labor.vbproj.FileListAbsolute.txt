@@ -1,0 +1,12 @@
+C:\Users\alteni75\source\repos\slave labor\slave labor\bin\Debug\slave labor.exe.config
+C:\Users\alteni75\source\repos\slave labor\slave labor\bin\Debug\slave labor.exe
+C:\Users\alteni75\source\repos\slave labor\slave labor\bin\Debug\slave labor.pdb
+C:\Users\alteni75\source\repos\slave labor\slave labor\bin\Debug\slave labor.xml
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave labor.vbprojAssemblyReference.cache
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave_labor.Resources.resources
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave labor.vbproj.GenerateResource.cache
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave labor.vbproj.CoreCompileInputs.cache
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave labor.exe
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave labor.xml
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave labor.pdb
+C:\Users\alteni75\source\repos\slave labor\slave labor\obj\Debug\slave_labor.EscapeRoom.resources
